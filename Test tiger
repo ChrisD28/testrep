@@ -1,2 +1,2 @@
-## Add a new file in Anaconda branch
-print ('Inside Anaconda branch')
+## Add a new file in Animals branch
+print ('Inside Animals branch')
